@@ -10,7 +10,7 @@ Um site para uma empresa de bicicletas, o projeto foi criado como um exercício 
 - [Autor](#autor)
 
 ### Links
-- Link para o site: https://jonathan-matheus.github.io/bikcraft-posicionamento/
+- Link para o site: https://jonathan-matheus.github.io/bickcraft_posicionamento/
 - link para o curso: https://www.origamid.com/
 
 ### Tecnologias
