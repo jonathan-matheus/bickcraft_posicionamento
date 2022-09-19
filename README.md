@@ -7,6 +7,7 @@ Um site para uma empresa de bicicletas, o projeto foi criado como um exercício 
 - [Links](#links)
 - [Tecnologias](#tecnologias)
 - [Imagens](#imagens)
+- [Autor](#autor)
 
 ### Links
 - Link para o site: https://jonathan-matheus.github.io/bikcraft-posicionamento/
@@ -17,6 +18,10 @@ Um site para uma empresa de bicicletas, o projeto foi criado como um exercício 
 
 ### Imagens
 ![img-site](/img/img-site.png)
+
+
+## Autor
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/109118732?v=4" width="100px">
 
 **Autor:** Jonathan Matheus Da Silva<br>
 
