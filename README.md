@@ -1,4 +1,4 @@
-![banner](/img/banner.jpg)
+![banner](./img/banner.jpg)
 
 # bikcraft posicionamento
 Um site para uma empresa de bicicletas, o projeto foi criado como um exercício do curso "HTML e CSS para iniciantes" da origamid.
@@ -17,7 +17,7 @@ Um site para uma empresa de bicicletas, o projeto foi criado como um exercício 
 - HTML e CSS
 
 ### Imagens
-![img-site](/img/img-site.png)
+![img-site](./img/img-site.png)
 
 
 ## Autor
